@@ -1,0 +1,7 @@
+name = Nodejs Extras
+description = "Extra Nodejs Things"
+core = "7.x"
+package = "Chat"
+dependencies[] = nodejs
+files[] = nodejs.extras.js
+stylesheets[all][] = nodejs_extras.css
